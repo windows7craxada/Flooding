@@ -1,0 +1,19 @@
+{
+  "name": "discord-message-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that sends 500 messages to a specified channel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "nana",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.6.1"
+  }
+}
